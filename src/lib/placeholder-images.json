@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A professional portrait of Nadeera Lakshan.",
+      "imageUrl": "/profile.jpg",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "about",
+      "description": "An image for the about me section.",
+      "imageUrl": "/about.jpg",
+      "imageHint": "personal lifestyle"
+    },
+    {
+      "id": "project1",
+      "description": "Image for Vehicle Breakdown Assistance System project.",
+      "imageUrl": "/project1.jpg",
+      "imageHint": "car technology"
+    },
+    {
+      "id": "hospital-app",
+      "description": "Image for Hospital Consultation Mobile Application project.",
+      "imageUrl": "/hospital-app.jpg",
+      "imageHint": "medical app"
+    },
+    {
+      "id": "project4",
+      "description": "Image for FitLife Gym Management System project.",
+      "imageUrl": "/project4.jpg",
+      "imageHint": "fitness app"
+    },
+    {
+      "id": "portfolio-project",
+      "description": "Image for Portfolio Website project.",
+      "imageUrl": "/portfolio-project.jpg",
+      "imageHint": "portfolio website"
+    }
+  ]
+}
